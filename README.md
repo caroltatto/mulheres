@@ -1,4 +1,4 @@
-# dicionario
+# mulheres
 ## Projeto final autoral do curso EuProgramo de Front-End II da PrograMaria
 
 Este é um dicionário que lista mulheres negras que fizeram e ainda fazem parte
