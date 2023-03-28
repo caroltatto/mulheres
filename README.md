@@ -1,7 +1,7 @@
 ﻿# dicionario
-## Projeto final do curso EuProgramo de Front-End II da PrograMaria
+## Projeto final autoral do curso EuProgramo de Front-End II da PrograMaria
 
-Este é um dicionário que lista as mulheres que fizeram e ainda fazem parte 
-da história do Brasil e mundo.
+Este é um dicionário que lista mulheres históricas que com certeza contribuiram
+e mudaram o mundo para melhor.
 
 Feito com HTML, CSS e JavaScript.
