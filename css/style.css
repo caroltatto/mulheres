@@ -1,11 +1,12 @@
 body{
-    font-family: Open Sans, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header{
     height: 100px;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #ad5050;
     margin-bottom: 40px;
+    text-align: center;
 
 }
 
@@ -19,6 +20,8 @@ header{
 h1{
     text-transform: uppercase;
     margin-bottom: 0;
+    color: #ad5050;
+    text-align: center;
 
 }
 
